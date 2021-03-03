@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\project 2\\Table"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
